@@ -3,9 +3,9 @@
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Iniciante](https://img.shields.io/badge/Nível-Iniciante-yellow)
 
-# 🍦 Consultoria de Dados: Sorveteria Esquimó (Marca Fictícia)
+# 🍦 Consultoria de Dados: Sorveteria Esquimó
 
-Este projeto apresenta uma consultoria completa de análise de dados para a Sorveteria Esquimó, uma marca fictícia criada integralmente por mim — desde a sua identidade visual e branding até a estruturação técnica do negócio.
+Este projeto apresenta uma consultoria completa de análise de dados para a Sorveteria Esquimó, uma marca fictícia criada integralmente por mim, desde a sua identidade visual e branding até a estruturação técnica do negócio.
 
 O cenário simula um negócio local que operava com registros manuais e enfrentava gargalos críticos de estoque e gestão financeira. Através de ferramentas estratégicas de análise, realizei a migração do "caos" de anotações informais para um ambiente SQL estruturado e inteligente, demonstrando como o design e a tecnologia trabalham juntos para transformar dados brutos em decisões de mercado.
 
