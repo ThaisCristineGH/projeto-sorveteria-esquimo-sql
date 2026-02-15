@@ -40,19 +40,17 @@ O cenário simula um negócio local que operava com registros manuais e enfrenta
 4. Segurança e Integridade dos Dados: A migração do Excel para o MySQL garantiu que cada venda possua um ID_VENDA único (Chave Primária), tornando o sistema imune a duplicidades e erros de digitação comuns em registros manuais.
 5. Prontidão para Escala: O ambiente agora está preparado para integrar ferramentas de visualização de dados (como Power BI) no futuro, permitindo que a Sorveteria Esquimó cresça com uma base tecnológica sólida e profissional.
 
-## 🗺️ Abaixo estão exemplos visuais do processo de estruturação dos dados e dos resultados finais desenvolvidos no projeto:
+### Excel
+(./img/excel001.png)
 
-### Planejamento e Estruturação Inicial (Excel)
-A base do projeto começou com a organização da "massa de dados", permitindo a limpeza de duplicidades e a definição de preços e estoque.
+### Excel
+(./img/excel002.png)
 
-![Mão na Massa - Parte 1](./excel/excel001.png)
-*Legenda: Dicionário de Produtos criado para padronização de categorias e preços.*
+### MySQL
+(./img/sql001.png)
 
-![Mão na Massa - Parte 2](./excel/excel002.png)
-*Legenda: Registro de Movimentação Diária estruturado para posterior migração SQL.*
+### MySQL
+(./img/sql002.png)
 
-![Implementação SQL - Parte 1](./mysql/sql001.png)
-*Legenda: Visualização da tabela de produtos já populada e auditada via query SELECT.*
-
-![Implementação SQL - Parte 2](./mysql/sql002.png)
-*Legenda: Registro de vendas consolidado, pronto para geração de relatórios financeiros.*
+### 📄 Relatório Técnico
+> [📥 Baixar Relatório em PDF](./pdf/https://github.com/ThaisCristineGH/projeto-sorveteria-esquimo-sql/tree/main/pdf)
