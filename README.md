@@ -52,20 +52,22 @@ O cenário simula um negócio local que operava com registros manuais e enfrenta
 ## 🖼️ Documentação Visual
 
 ### 📊 Estruturação no Excel
-
-![Tabela de Produtos](./excel/excel001.png)
+![Tabela de Produtos](./img/excel001.png)
 *Legenda: Dicionário de produtos e controle de estoque inicial.*
 
-![Registro de Movimentação](./excel/excel002.png)
+![Registro de Movimentação](./img/excel002.png)
 *Legenda: Planejamento do fluxo de vendas diário.*
 
 ### 🗄️ Implementação no MySQL
-![Query de Produtos](./mysql/sql001.png)
+![Query de Produtos](./img/sql001.png)
 *Legenda: Verificação da tabela de produtos após o povoamento via SQL.*
 
-![Query de Vendas](./mysql/sql002.png)
+![Query de Vendas](./img/sql002.png)
 *Legenda: Auditoria de vendas e formas de pagamento no banco de dados.*
 
+---
+
 ## 📄 Relatório Técnico
-> **[📥 Baixar Relatório Completo (PDF)](.pdf/relatorio_tecnico_sorveteria_esquimo.pdf)** 
+> **[📥 Baixar Relatório Completo (PDF)](./pdf/relatorio_tecnico_sorveteria_esquimo.pdf)**
+> 
 > *Nota: Este documento contém toda a apresentação da consultoria, diagnóstico e conclusões estratégicas.*
