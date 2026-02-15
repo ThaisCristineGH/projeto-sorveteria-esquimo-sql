@@ -66,9 +66,6 @@ O cenário simula um negócio local que operava com registros manuais e enfrenta
 ![Query de Vendas](./mysql/sql002.png)
 *Legenda: Auditoria de vendas e formas de pagamento no banco de dados.*
 
----
-
 ## 📄 Relatório Técnico
-> **[📥 Baixar Relatório Completo (PDF)](./Relatorio_Esquimo.pdf)**
-> 
+> **[📥 Baixar Relatório Completo (PDF)](.pdf/relatorio_tecnico_sorveteria_esquimo.pdf)** 
 > *Nota: Este documento contém toda a apresentação da consultoria, diagnóstico e conclusões estratégicas.*
