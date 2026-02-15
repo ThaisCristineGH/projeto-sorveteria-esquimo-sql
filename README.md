@@ -40,17 +40,31 @@ O cenário simula um negócio local que operava com registros manuais e enfrenta
 4. Segurança e Integridade dos Dados: A migração do Excel para o MySQL garantiu que cada venda possua um ID_VENDA único (Chave Primária), tornando o sistema imune a duplicidades e erros de digitação comuns em registros manuais.
 5. Prontidão para Escala: O ambiente agora está preparado para integrar ferramentas de visualização de dados (como Power BI) no futuro, permitindo que a Sorveteria Esquimó cresça com uma base tecnológica sólida e profissional.
 
-### Excel
-(./img/excel001.png)
+## 💡 Ferramentas e Tecnologias
 
-### Excel
-(./img/excel002.png)
+* **Canva / Design Tools:** Criação da identidade visual e branding da marca.
+* **Microsoft Excel:** Planejamento estratégico e prototipagem das tabelas.
+* **Bloco de Notas:** Manipulação de arquivos CSV e limpeza de dados.
+* **MySQL Workbench:** Modelagem do banco de dados relacional e gerenciamento de scripts.
+* **SQL:** Linguagem para inserção (DML) e consulta (DQL) de dados.
+* **GitHub:** Controle de versão e documentação do portfólio.
 
-### MySQL
-(./img/sql001.png)
+## 🖼️ Documentação Visual
 
-### MySQL
-(./img/sql002.png)
+![Tabela de Produtos](./img/excel001.png)
+*Legenda: Dicionário de produtos e controle de estoque inicial.*
 
-### 📄 Relatório Técnico
-> [📥 Baixar Relatório em PDF](./pdf/https://github.com/ThaisCristineGH/projeto-sorveteria-esquimo-sql/tree/main/pdf)
+![Registro de Movimentação](./img/excel002.png)
+*Legenda: Planejamento do fluxo de vendas diário.*
+
+### 🗄️ Implementação no MySQL
+
+![Query de Produtos](./img/sql001.png)
+*Legenda: Verificação da tabela de produtos após o povoamento via SQL.*
+
+![Query de Vendas](./img/sql002.png)
+*Legenda: Auditoria de vendas e formas de pagamento no banco de dados.*
+
+## 📄 Relatório Técnico
+> **[📥 Baixar Relatório Completo (PDF)](./pdf/Relatorio_Esquimo.pdf)**
+> *Nota: Este documento contém toda a apresentação da consultoria, diagnóstico e conclusões estratégicas.*
